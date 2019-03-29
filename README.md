@@ -1,6 +1,8 @@
 # slackEmoji_approve
 Slackで「あぷるーぶ」って言いたいときあるよね…？
+![img](./approve.png)
 
+## issue
 issueは受け付けます。
 
 ## LICENCE
