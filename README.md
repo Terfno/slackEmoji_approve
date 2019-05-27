@@ -1,10 +1,28 @@
-# slackEmoji_approve
+# slackEmoji
+`ai_file`に元のイラレデータがあるので好きなように改変してください。
+
+もしよろしければ、どんな感じにアレンジしたか知りたいのでpull reqお願いします。
+
+`png_file`にそのままSlackの絵文字に登録できるサイズのpngがあります。
+
+## 使い方
+`git`があるなら`git clone`してください。
+
+`git`がないなら頑張ってダウンロードしてください。
+
+## emoji
+### Approve emoji
 Slackで「あぷるーぶ」って言いたいときあるよね…？
 
-![img](./approve.png)
+![img](./png_file/approve.png)
+
+### Masakari emoji
+Slackで「マサカリ」を投げたいときってあるよね…？
+
+![img](./png_file/masakari.png)
 
 ## issue
-issueは受け付けます。
+issueは受け付けてます。
 
 ## LICENCE
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
