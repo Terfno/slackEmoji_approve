@@ -21,6 +21,13 @@ Slackで「マサカリ」を投げたいときってあるよね…？
 
 ![img](./png_file/masakari.png)
 
+### Kami emoji
+Slackで「神」と称賛したいときありますね！
+
+そんなときは:kami:とリアクションして賞賛したいものです。
+
+![img](./png_file/kami.png)
+
 ## issue
 issueは受け付けてます。
 
