@@ -35,6 +35,11 @@ Slackで神じゃない人だけど称賛したいときありますね！
 
 ![img](./png_file/pro.png)
 
+### Thx emoji
+Slackで超絶感謝したいときのための絵文字です。
+
+![img](./png_file/thanks.png)
+
 ## issue
 issueは受け付けてます。
 
