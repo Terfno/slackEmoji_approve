@@ -28,6 +28,13 @@ Slackで「神」と称賛したいときありますね！
 
 ![img](./png_file/kami.png)
 
+### Pro emoji
+Slackで神じゃない人だけど称賛したいときありますね！
+
+そんなときは:haipro:とリアクションしていい感じに賞賛したいものです。
+
+![img](./png_file/pro.png)
+
 ## issue
 issueは受け付けてます。
 
