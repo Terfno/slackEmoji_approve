@@ -40,6 +40,11 @@ Slackで超絶感謝したいときのための絵文字です。
 
 ![img](./png_file/thanks.png)
 
+### Fight emoji
+頑張る宣言をemojiでしたいときのための絵文字です。
+
+![img](./png_file/fight.png)
+
 ## issue
 issueは受け付けてます。
 
